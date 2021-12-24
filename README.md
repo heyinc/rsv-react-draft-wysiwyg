@@ -1,5 +1,8 @@
 # React Draft Wysiwyg
 
+注釈：一時期このフォークを使っていた. もう参照されていないはずだが一応取っておく。。
+
+
 A Wysiwyg editor built using ReactJS and DraftJS libraries.
 [Demo Page](https://jpuri.github.io/react-draft-wysiwyg).
 
